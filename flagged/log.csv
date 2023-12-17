@@ -1,0 +1,3 @@
+name,is_morning,temperature,output 0,output 1,flag,username,timestamp
+jinlu,False,64,Good evening jinlu. It is 64 degrees today,17.78,,,2023-12-15 11:45:49.451433
+"{""path"":""flagged/Input Image/bbd364ca0df14b29d167/ikun.jpg"",""url"":""http://127.0.0.1:7860/file=/tmp/gradio/399f0e2e3cb589755a75072d90e6b652f9cb8ded/ikun.jpg"",""size"":193042,""orig_name"":""ikun.jpg"",""mime_type"":""""}","{""label"":""sweatshirt"",""confidences"":[{""label"":""sweatshirt"",""confidence"":0.2420216202735901},{""label"":""jean"",""confidence"":0.0745081752538681},{""label"":""Windsor tie"",""confidence"":0.06259270757436752},{""label"":""cardigan"",""confidence"":0.035797327756881714},{""label"":""sunglass"",""confidence"":0.03361509367823601}]}",,,2023-12-15 12:30:32.428221
